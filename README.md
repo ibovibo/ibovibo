@@ -14,7 +14,7 @@
 
 ## 📊 GitHub Stats & Trophies
 <p align="center">
-  <img src="https://github-readme-streak-stats-x750.onrender.com/?user=ibovibo&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="ibovibo's GitHub Streak" width="49%" />
+  <img src="https://github-readme-streak-stats-x750.onrender.com/?user=ibovibo&theme=gruvbox&hide_border=true&cache_seconds=86400" alt="ibovibo's GitHub Streak" width="60%" />
 </p>
 
 
