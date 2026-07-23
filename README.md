@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ibovibo">
-    <img src="https://komarev.com/ghpvc/?username=ibovibo&label=Profile%20views&color=00FFFF&style=flat-square" alt="ibovibo's profile views" />
+    <img src="https://komarev.com/ghpvc/?username=ibovibo&label=Profile%20views&color=FFC53D&style=flat-square" />
   </a>
 </p>
 
