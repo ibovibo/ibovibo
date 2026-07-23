@@ -1,12 +1,14 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm İbrahim Enez</h1>
 
+
+<img src="https://i.pinimg.com/originals/66/59/35/6659351bce68bb41d7811f1402ca6b7a.gif" alt="Banner" width="100%" />
+
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ibovibo">
     <img src="https://komarev.com/ghpvc/?username=ibovibo&label=Profile%20views&color=00FFFF&style=flat-square" alt="ibovibo's profile views" />
   </a>
 </p>
 
-<img src="https://i.pinimg.com/originals/66/59/35/6659351bce68bb41d7811f1402ca6b7a.gif" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - I’m an Artificial Intelligence Engineering student with a strong interest in data science and machine learning. I’m passionate about building AI-powered solutions for real-world problems, and I see every project I work on as an opportunity to grow both my technical expertise and design skills.
