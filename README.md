@@ -1,7 +1,7 @@
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/sindresorhus/sindresorhus/refs/heads/main/cat-typing.gif" height="30px" width="30px"> I'm İbrahim Enez</h1>
 
 
-<img src="https://i.pinimg.com/originals/d1/d0/fe/d1d0fef9565fb824bf738ac1a33c8b4c.gif" alt="Banner" width="100%" /> 
+<img src="https://i.pinimg.com/originals/3c/31/c8/3c31c8503d9e31400e96d4b90b93c141.gif" alt="Banner" width="100%" /> 
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ibovibo">
