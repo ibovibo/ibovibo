@@ -1,0 +1,103 @@
+<svg viewBox="0 0 760 330" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0A1F14"/>
+      <stop offset="100%" stop-color="#1D0A14"/>
+    </linearGradient>
+    <linearGradient id="pinkGreen" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#E8447F"/>
+      <stop offset="100%" stop-color="#1B5E3A"/>
+    </linearGradient>
+    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="2.5" result="blur"/>
+      <feMerge>
+        <feMergeNode in="blur"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+  </defs>
+
+  <rect x="0" y="0" width="760" height="330" rx="18" fill="url(#bg)"/>
+  <rect x="1" y="1" width="758" height="328" rx="17" fill="none" stroke="url(#pinkGreen)" stroke-width="1.5" opacity="0.5"/>
+
+  <text x="380" y="36" text-anchor="middle" font-family="Fira Code, monospace" font-size="16" font-weight="600" fill="#E8447F" letter-spacing="3">
+    LANGUAGES &amp; TOOLS
+    <animate attributeName="fill" values="#E8447F;#4CAF7D;#E8447F" dur="4s" repeatCount="indefinite"/>
+  </text>
+
+  <!-- header row -->
+  <text x="44" y="66" font-family="Fira Code, monospace" font-size="12" letter-spacing="3" fill="#8AA898">CATEGORY</text>
+  <text x="220" y="66" font-family="Fira Code, monospace" font-size="12" letter-spacing="3" fill="#8AA898">STACK</text>
+  <line x1="24" y1="80" x2="736" y2="80" stroke="url(#pinkGreen)" stroke-width="1.5" opacity="0.6"/>
+  <line x1="196" y1="94" x2="196" y2="308" stroke="#3A2A32" stroke-width="1"/>
+
+  <g font-family="Fira Code, monospace">
+
+    <!-- zebra row backgrounds -->
+    <rect x="24" y="94" width="712" height="48" rx="10" fill="#12181A" opacity="0.5"/>
+    <rect x="24" y="200" width="712" height="48" rx="10" fill="#12181A" opacity="0.5"/>
+
+    <!-- Row 1: Language -->
+    <rect x="34" y="102" width="150" height="32" rx="8" fill="#170A12" stroke="#E8447F" stroke-width="1.3"/>
+    <text x="109" y="123" text-anchor="middle" font-size="12" font-weight="600" fill="#E8447F">LANGUAGE</text>
+
+    <g transform="translate(220,100)">
+      <circle cx="18" cy="18" r="12" fill="none" stroke="#4CAF7D" stroke-width="1.6" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="22" text-anchor="middle" font-size="10" fill="#FFFFFF">Py</text>
+      <text x="76" y="22" text-anchor="middle" font-size="13" font-weight="600" fill="#DCE8E0">Python</text>
+    </g>
+
+    <line x1="24" y1="147" x2="736" y2="147" stroke="#2A1F26" stroke-width="1"/>
+
+    <!-- Row 2: Framework -->
+    <rect x="34" y="155" width="150" height="32" rx="8" fill="#0F1A12" stroke="#4CAF7D" stroke-width="1.3"/>
+    <text x="109" y="176" text-anchor="middle" font-size="12" font-weight="600" fill="#4CAF7D">FRAMEWORK</text>
+
+    <g transform="translate(220,153)">
+      <circle cx="18" cy="18" r="12" fill="none" stroke="#E8447F" stroke-width="1.6" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0.4s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="22" text-anchor="middle" font-size="10" fill="#FFFFFF">Fl</text>
+      <text x="76" y="22" text-anchor="middle" font-size="13" font-weight="600" fill="#EBD6DF">Flutter</text>
+    </g>
+
+    <line x1="24" y1="200" x2="736" y2="200" stroke="#2A1F26" stroke-width="1"/>
+
+    <!-- Row 3: Database -->
+    <rect x="34" y="208" width="150" height="32" rx="8" fill="#170A12" stroke="#E8447F" stroke-width="1.3"/>
+    <text x="109" y="229" text-anchor="middle" font-size="12" font-weight="600" fill="#E8447F">DATABASE</text>
+
+    <g transform="translate(220,206)">
+      <circle cx="18" cy="18" r="12" fill="none" stroke="#4CAF7D" stroke-width="1.6" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="0.8s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="22" text-anchor="middle" font-size="10" fill="#FFFFFF">DB</text>
+      <text x="76" y="22" text-anchor="middle" font-size="13" font-weight="600" fill="#DCE8E0">SQL</text>
+    </g>
+
+    <line x1="24" y1="253" x2="736" y2="253" stroke="#2A1F26" stroke-width="1"/>
+
+    <!-- Row 4: Data Science -->
+    <rect x="34" y="261" width="150" height="32" rx="8" fill="#0F1A12" stroke="#4CAF7D" stroke-width="1.3"/>
+    <text x="109" y="282" text-anchor="middle" font-size="12" font-weight="600" fill="#4CAF7D">DATA SCIENCE</text>
+
+    <g transform="translate(220,259)">
+      <circle cx="18" cy="18" r="12" fill="none" stroke="#E8447F" stroke-width="1.6" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.2s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="22" text-anchor="middle" font-size="10" fill="#FFFFFF">Pd</text>
+      <text x="76" y="22" text-anchor="middle" font-size="13" font-weight="600" fill="#EBD6DF">Pandas</text>
+    </g>
+
+    <g transform="translate(360,259)">
+      <circle cx="18" cy="18" r="12" fill="none" stroke="#4CAF7D" stroke-width="1.6" filter="url(#glow)">
+        <animate attributeName="stroke-opacity" values="0.4;1;0.4" dur="3s" begin="1.6s" repeatCount="indefinite"/>
+      </circle>
+      <text x="18" y="22" text-anchor="middle" font-size="10" fill="#FFFFFF">Np</text>
+      <text x="76" y="22" text-anchor="middle" font-size="13" font-weight="600" fill="#DCE8E0">NumPy</text>
+    </g>
+
+  </g>
+</svg>
