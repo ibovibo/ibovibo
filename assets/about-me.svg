@@ -1,12 +1,12 @@
 <svg viewBox="0 0 760 215" xmlns="http://www.w3.org/2000/svg">
   <defs>
     <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
-      <stop offset="0%" stop-color="#0A1F14"/>
-      <stop offset="100%" stop-color="#1D0A14"/>
+      <stop offset="0%" stop-color="#120A1F"/>
+      <stop offset="100%" stop-color="#241335"/>
     </linearGradient>
     <linearGradient id="pinkGreen" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" stop-color="#E8447F"/>
-      <stop offset="100%" stop-color="#1B5E3A"/>
+      <stop offset="0%" stop-color="#6C3FBF"/>
+      <stop offset="100%" stop-color="#B18AFF"/>
     </linearGradient>
   </defs>
 
@@ -15,7 +15,7 @@
     <animate attributeName="opacity" values="0.4;0.9;0.4" dur="4s" repeatCount="indefinite"/>
   </rect>
 
-  <g font-family="Fira Code, monospace" font-size="19" fill="#DCE0DE">
+  <g font-family="Fira Code, monospace" font-size="19" fill="#FFFFFF">
     <text x="40" y="52">I'm an Artificial Intelligence Engineering student with a</text>
     <text x="40" y="84">strong interest in data science and machine learning. I'm</text>
     <text x="40" y="116">passionate about building AI-powered solutions for real-world</text>
