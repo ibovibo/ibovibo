@@ -1,7 +1,5 @@
 <img src="./assets/githubgif5.gif" alt="Banner" width="100%">
 
-
-
 ## 📌 About Me
 - I’m an Artificial Intelligence Engineering student with a strong interest in data science and machine learning. I’m passionate about building AI-powered solutions for real-world problems, and I see every project I work on as an opportunity to grow both my technical expertise and design skills.
 
@@ -11,9 +9,9 @@
 </p>
 
 ## 🛠️ Languages & Tools
-<div align="center">
-
-</div>
+<p align="center">
+  <img src="./assets/tech-stack.svg" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://komarev.com/ghpvc/?username=ibovibo">
