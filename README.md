@@ -1,8 +1,6 @@
 <img src="./assets/githubgif5.gif" alt="Banner" width="100%">
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=1B5E3A&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+%C4%B0brahim+ENEZ" alt="Typing SVG" />
-</p>
+
 
 ## 📌 About Me
 - I’m an Artificial Intelligence Engineering student with a strong interest in data science and machine learning. I’m passionate about building AI-powered solutions for real-world problems, and I see every project I work on as an opportunity to grow both my technical expertise and design skills.
