@@ -3,16 +3,15 @@
 
 ## 📌 About Me
 <p align="center">
-  <img src="./assets/about-me.svg" width="100%" />
+I'm an Artificial Intelligence Engineering student with a strong interest in data science and machine learning. I'm passionate about building AI-powered solutions for real-world problems, and I see every project I work on as an opportunity to grow both my technical expertise and design skills.
 </p>
 
 
 
 ## 📊 GitHub Stats
 <p align="center">
- <img src="https://streak-stats.demolab.com/?user=ibovibo&theme=github-dark&hide_border=true&background=45deg,050D08,1D0A14&border=1B5E3A&stroke=2F2F5F&ring=E8447F&fire=2E7D4F&currStreakNum=FFFFFF&sideNums=4CAF7D&currStreakLabel=FF4FA3&sideLabels=D6336C&dates=2E7D4F" alt="ibovibo's GitHub Streak" width="80%" />
+ <img src="https://github-readme-streak-stats-x750.onrender.com/?user=ibovibo&theme=github-dark&hide_border=true&background=45deg,050D08,1D0A14&border=1B5E3A&stroke=2F2F5F&ring=E8447F&fire=2E7D4F&currStreakNum=FFFFFF&sideNums=4CAF7D&currStreakLabel=FF4FA3&sideLabels=D6336C&dates=2E7D4F" alt="ibovibo's GitHub Streak" width="80%" />
 </p>
-
 
 
 ## 🛠️ Languages & Tools
