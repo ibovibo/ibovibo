@@ -1,4 +1,4 @@
-<img src="./assets/githubgif5.gif" alt="Banner" width="100%">
+<video src="https://github.com/user-attachments/assets/1efbbf6a-59f7-4373-a076-e21781bdca08" autoplay loop muted playsinline width="100%"></video>
 
 
 ## 📌 About Me
