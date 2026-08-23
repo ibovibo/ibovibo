@@ -1,5 +1,4 @@
-<video src="https://github.com/user-attachments/assets/1efbbf6a-59f7-4373-a076-e21781bdca08" autoplay loop muted playsinline width="100%"></video>
-
+<img src="./assets/githubgif5_optimized.gif" alt="Banner" width="100%">
 
 ## 📌 About Me
 <p align="center">
