@@ -1,4 +1,4 @@
-<img src="./assets/githubgif5_optimized.gif" alt="Banner" width="100%">
+<img src="./assets/son.webp" alt="Banner" width="100%">
 
 ## 📌 About Me
 <p align="center">
